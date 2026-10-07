@@ -1,0 +1,450 @@
+[
+ {
+  "file": "dlp_atc.csv",
+  "rows": 6999,
+  "columns": 4,
+  "header": [
+   "ATC",
+   "NT",
+   "NAZEV",
+   "NAZEV_EN"
+  ],
+  "sha256": "bd80247dd51250274f5d5f7802c4fe3ca1223044858ad54baf54caccdee645e1",
+  "bytes": 353071
+ },
+ {
+  "file": "dlp_cesty.csv",
+  "rows": 178,
+  "columns": 5,
+  "header": [
+   "CESTA",
+   "NAZEV",
+   "NAZEV_EN",
+   "NAZEV_LAT",
+   "KOD_EDQM"
+  ],
+  "sha256": "8a82e7285df86608b825afacc08400fb8570555fdeb21a5ac4527b716e34c3fa",
+  "bytes": 18239
+ },
+ {
+  "file": "dlp_datove_rozhrani.csv",
+  "rows": 164,
+  "columns": 5,
+  "header": [
+   "Datová sada",
+   "Pořadí sloupce",
+   "Název sloupce",
+   "Typ položky",
+   "Význam"
+  ],
+  "sha256": "cd1f0d1893796b7aea2b137325c4931e9049cf19d327b400264a955ea63f717f",
+  "bytes": 13356
+ },
+ {
+  "file": "dlp_doping.csv",
+  "rows": 13,
+  "columns": 2,
+  "header": [
+   "DOPING",
+   "NAZEV"
+  ],
+  "sha256": "7aa6439482ee402fd70259ea20ab262e85bceb57b4573e0547f6a0b7e510f214",
+  "bytes": 1048
+ },
+ {
+  "file": "dlp_dopinglp.csv",
+  "rows": 9250,
+  "columns": 2,
+  "header": [
+   "KOD_SUKL",
+   "KOD_DOPING"
+  ],
+  "sha256": "48c14c0690c76ceec13f2a22d12f0397d8f387f5807a1de2eb45b72bd1ed5130",
+  "bytes": 111398
+ },
+ {
+  "file": "dlp_formy.csv",
+  "rows": 643,
+  "columns": 6,
+  "header": [
+   "FORMA",
+   "NAZEV",
+   "NAZEV_EN",
+   "NAZEV_LAT",
+   "JE_KONOPI",
+   "KOD_EDQM"
+  ],
+  "sha256": "e231940d82f7a27211dcbddce538719cd66c57cda3b73e973abd6805c60c39ce",
+  "bytes": 76182
+ },
+ {
+  "file": "dlp_indikacniskupiny.csv",
+  "rows": 88,
+  "columns": 2,
+  "header": [
+   "INDSK",
+   "NAZEV"
+  ],
+  "sha256": "0b47ca42290d82e3ee96495b03019c30e0cf663a8fb5867cdaf7a0a02d92b864",
+  "bytes": 2315
+ },
+ {
+  "file": "dlp_jednotky.csv",
+  "rows": 73,
+  "columns": 2,
+  "header": [
+   "UN",
+   "NAZEV"
+  ],
+  "sha256": "2afad11205106c0338b79e75f0680e66cec8bb5dab72065b0c037dffd7466c33",
+  "bytes": 2246
+ },
+ {
+  "file": "dlp_latky.csv",
+  "rows": 21571,
+  "columns": 8,
+  "header": [
+   "KOD_LATKY",
+   "ZDROJ",
+   "NAZEV_INN",
+   "NAZEV_EN",
+   "NAZEV",
+   "ZAV",
+   "DOP",
+   "NARVLA"
+  ],
+  "sha256": "3df65f57d46c50fc7acfcf526f8fed3cd71e5725396bb38631a2c9a346152af6",
+  "bytes": 1391833
+ },
+ {
+  "file": "dlp_lecivelatky.csv",
+  "rows": 3376,
+  "columns": 5,
+  "header": [
+   "KOD_LATKY",
+   "NAZEV_INN",
+   "NAZEV_EN",
+   "NAZEV",
+   "ZAV"
+  ],
+  "sha256": "37eecdd01553ac677c1f5a411116fc96dedf3ca5c1adf87fc48a08c6196b4c50",
+  "bytes": 219347
+ },
+ {
+  "file": "dlp_lecivepripravky.csv",
+  "rows": 69847,
+  "columns": 44,
+  "header": [
+   "KOD_SUKL",
+   "H",
+   "NAZEV",
+   "SILA",
+   "FORMA",
+   "BALENI",
+   "CESTA",
+   "DOPLNEK",
+   "OBAL",
+   "DRZ",
+   "ZEMDRZ",
+   "AKT_DRZ",
+   "AKT_ZEM",
+   "REG",
+   "V_PLATDO",
+   "NEOMEZ",
+   "UVADENIDO",
+   "IS_",
+   "ATC_WHO",
+   "RC",
+   "SDOV",
+   "SDOV_DOD",
+   "SDOV_ZEM",
+   "REG_PROC",
+   "DDDAMNT_WHO",
+   "DDDUN_WHO",
+   "DDDP_WHO",
+   "ZDROJ_WHO",
+   "LL",
+   "VYDEJ",
+   "ZAV",
+   "DOPING",
+   "NARVLA",
+   "DODAVKY",
+   "EAN",
+   "BRAILLOVO_PISMO",
+   "EXP",
+   "EXP_T",
+   "NAZEV_REG",
+   "MRP_CISLO",
+   "PRAVNI_ZAKLAD_REGISTRACE",
+   "OCHRANNY_PRVEK",
+   "OMEZENI_PRESKRIPCE_SMP",
+   "TYP_LP"
+  ],
+  "sha256": "92366ebd86745f36881293361de7228f500e2a3095ac10e9ebd739fde2fa0897",
+  "bytes": 13227463
+ },
+ {
+  "file": "dlp_narvla.csv",
+  "rows": 6,
+  "columns": 2,
+  "header": [
+   "NARVLA",
+   "NAZEV"
+  ],
+  "sha256": "32142efcdc1b12ffb7f54c7fb576a1e646e63edd8360d231584e727adde564fe",
+  "bytes": 217
+ },
+ {
+  "file": "dlp_nazvydokumentu.csv",
+  "rows": 62962,
+  "columns": 9,
+  "header": [
+   "KOD_SUKL",
+   "PIL",
+   "DAT_ROZ_PIL",
+   "SPC",
+   "DAT_ROZ_SPC",
+   "OBAL_TEXT",
+   "DAT_ROZ_OBAL",
+   "NR",
+   "DAT_NPM_NR"
+  ],
+  "sha256": "b4a4f8c491b38ff72df7db2449aa519bf7453b2072eab4a0110d7389e83161df",
+  "bytes": 9096620
+ },
+ {
+  "file": "dlp_obaly.csv",
+  "rows": 83,
+  "columns": 4,
+  "header": [
+   "OBAL",
+   "NAZEV",
+   "NAZEV_EN",
+   "KOD_EDQM"
+  ],
+  "sha256": "df5aba4186c61ab7f4a6e913569cda7967e498f28085be9984fc1d44ce07d4a1",
+  "bytes": 3821
+ },
+ {
+  "file": "dlp_organizace.csv",
+  "rows": 3597,
+  "columns": 5,
+  "header": [
+   "ZKR_ORG",
+   "ZEM",
+   "NAZEV",
+   "VYROBCE",
+   "DRZITEL"
+  ],
+  "sha256": "b32486c7b2c1e7a12d20bd6608ee62b9a14a1122cfa5e2a2a86d51aee8aca778",
+  "bytes": 162668
+ },
+ {
+  "file": "dlp_platnost.csv",
+  "rows": 1,
+  "columns": 2,
+  "header": [
+   "platnost_od",
+   "platnost_do"
+  ],
+  "sha256": "4de6e2c736253319fe6b9485c1f9f2582bcd014f2c69b50f8185d1c93e097d9a",
+  "bytes": 48
+ },
+ {
+  "file": "dlp_pravnizakladreg.csv",
+  "rows": 18,
+  "columns": 2,
+  "header": [
+   "KOD",
+   "NAZEV"
+  ],
+  "sha256": "6e127b2f401d8e3b1069f3908c639d2c6b4a16c1cdbefab5bf6b4e28a06ac884",
+  "bytes": 1712
+ },
+ {
+  "file": "dlp_regproc.csv",
+  "rows": 7,
+  "columns": 2,
+  "header": [
+   "REG_PROC",
+   "NAZEV"
+  ],
+  "sha256": "bffe0ee4358d7652179cb4cb7b87e341b6fe6d42c55a3d4cecfc096cee84fe1e",
+  "bytes": 387
+ },
+ {
+  "file": "dlp_slozeni.csv",
+  "rows": 808263,
+  "columns": 7,
+  "header": [
+   "KOD_SUKL",
+   "KOD_LATKY",
+   "SQ",
+   "S",
+   "AMNT_OD",
+   "AMNT",
+   "UN"
+  ],
+  "sha256": "d24810ea081e9cb194ca336c4da2b903781bdaed9d541204c250b946a3b0ee9e",
+  "bytes": 19682005
+ },
+ {
+  "file": "dlp_slozenipriznak.csv",
+  "rows": 10,
+  "columns": 2,
+  "header": [
+   "S",
+   "VYZNAM"
+  ],
+  "sha256": "12fe663f7e66120aed75fa555907d3d84c531991f8f01db106c9e74c3fb160ca",
+  "bytes": 666
+ },
+ {
+  "file": "dlp_soli.csv",
+  "rows": 3015,
+  "columns": 2,
+  "header": [
+   "KOD_LATKY",
+   "KOD_SOLI"
+  ],
+  "sha256": "aad90f22526b40c7c324ef304481b1bfb7600a5b60dd5e39d2417d616f5221af",
+  "bytes": 34811
+ },
+ {
+  "file": "dlp_splp.csv",
+  "rows": 202,
+  "columns": 10,
+  "header": [
+   "KOD_SUKL",
+   "DATOD",
+   "DATDO",
+   "POVOL_BALENI",
+   "UCEL",
+   "PRACOVISTE",
+   "DISTRIBUTOR",
+   "POZNAMKA",
+   "PREDKLADATEL",
+   "VYROBCE"
+  ],
+  "sha256": "816fb1f603b1232fa2a9429bce2a30aadf875d96736b67ceda43042f8fbc14a6",
+  "bytes": 202370
+ },
+ {
+  "file": "dlp_stavyreg.csv",
+  "rows": 16,
+  "columns": 2,
+  "header": [
+   "REG",
+   "NAZEV"
+  ],
+  "sha256": "a72e83639c2af2faee36c9adbef3ec9cf2044e4a9347108383de1050cecb532e",
+  "bytes": 1132
+ },
+ {
+  "file": "dlp_synonyma.csv",
+  "rows": 273096,
+  "columns": 4,
+  "header": [
+   "KOD_LATKY",
+   "SQ",
+   "ZDROJ",
+   "NAZEV"
+  ],
+  "sha256": "448636ab4d9aabc072188aaed1a4202cf681635ae090cc17df9beb988d407df2",
+  "bytes": 12447657
+ },
+ {
+  "file": "dlp_typlp.csv",
+  "rows": 42,
+  "columns": 3,
+  "header": [
+   "TYP_LP",
+   "NAZEV",
+   "NAZEV_EN"
+  ],
+  "sha256": "8423856bdc17b76778390308af9b0fe062cfff84795472274fe7bffc71cf67d8",
+  "bytes": 3472
+ },
+ {
+  "file": "dlp_vpois.csv",
+  "rows": 61375,
+  "columns": 5,
+  "header": [
+   "KOD_SUKL",
+   "VPOIS_NAZEV_SPOLECNOSTI",
+   "VPOIS_WWW",
+   "VPOIS_EMAIL",
+   "VPOIS_TEL"
+  ],
+  "sha256": "5ea43b51cc0847065fcf61231bbb3228046106f4c8089231ab285dd10faa068b",
+  "bytes": 5202403
+ },
+ {
+  "file": "dlp_vydej.csv",
+  "rows": 7,
+  "columns": 2,
+  "header": [
+   "VYDEJ",
+   "NAZEV"
+  ],
+  "sha256": "6f29f9df1bfb4a6580d71c14d6a52680ac9969d8006f6d75182c62423d4838e3",
+  "bytes": 338
+ },
+ {
+  "file": "dlp_zavislost.csv",
+  "rows": 13,
+  "columns": 2,
+  "header": [
+   "ZAV",
+   "NAZEV_CS"
+  ],
+  "sha256": "de8a44eecae008c9491839e2c8c3f3c89697b20c9f41f0b85bde753737ecd68d",
+  "bytes": 1271
+ },
+ {
+  "file": "dlp_zdroje.csv",
+  "rows": 365,
+  "columns": 2,
+  "header": [
+   "ZDROJ",
+   "NAZEV"
+  ],
+  "sha256": "8cc48a6ad208908d1559efa61d60266a063d7169a8ea560147547475b8bfbb5f",
+  "bytes": 18984
+ },
+ {
+  "file": "dlp_zeme.csv",
+  "rows": 259,
+  "columns": 4,
+  "header": [
+   "ZEM",
+   "NAZEV",
+   "NAZEV_EN",
+   "KOD_EDQM"
+  ],
+  "sha256": "43e1cf102c0196ac9920cd333e720837302ffe478d3261cb00c2f7d3b1bf182c",
+  "bytes": 8220
+ },
+ {
+  "file": "dlp_zruseneregistrace.csv",
+  "rows": 17617,
+  "columns": 13,
+  "header": [
+   "NAZEV",
+   "CESTA",
+   "FORMA",
+   "SILA",
+   "REGISTRACNI_CISLO",
+   "SOUBEZNY_DOVOZ",
+   "MRP_CISLO",
+   "TYP_REGISTRACE",
+   "PRAVNI_ZAKLAD_REGISTRACE",
+   "DRZITEL",
+   "ZEME_DRZITELE",
+   "KONEC_PLATNOSTI_REGISTRACE",
+   "STAV_REGISTRACE"
+  ],
+  "sha256": "c9cff5868d359059d0b6753eeeb8b1e4b58b5017cfb589c7d4a5e161818f6168",
+  "bytes": 1523817
+ }
+]
